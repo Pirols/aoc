@@ -2,3 +2,5 @@
 .envrc
 Pipfile
 Pipfile.lock
+
+*txt
